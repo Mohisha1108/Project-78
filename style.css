@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+#id{
+    font-size:50px;
+    text-align:center;
+    word-spacing:10px;
+    font-variant:small-caps;
+  }
+#album{
+    width:400px;
+}
